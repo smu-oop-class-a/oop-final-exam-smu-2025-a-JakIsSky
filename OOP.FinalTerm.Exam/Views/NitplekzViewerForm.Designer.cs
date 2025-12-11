@@ -141,7 +141,6 @@
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Nitplekz";
             WindowState = FormWindowState.Maximized;
-            Load += NitplekzViewerForm_Load;
             panel1.ResumeLayout(false);
             tableLayoutPanel1.ResumeLayout(false);
             panel3.ResumeLayout(false);

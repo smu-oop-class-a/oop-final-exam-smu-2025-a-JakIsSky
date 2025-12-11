@@ -344,10 +344,6 @@ namespace OOP.FinalTerm.Exam
         }
         #endregion
 
-        private void NitplekzViewerForm_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 
     /// <summary>
